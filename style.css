@@ -1,0 +1,22 @@
+body
+{
+    background-color: gold;
+}
+
+#score
+{
+    font-size: medium;
+    margin-left: 20px;
+}
+
+#timer
+{
+    font-size: medium;
+    float: right;
+    margin-right: 20px;
+}
+
+#sketch_name
+{
+    color:white;
+}
